@@ -1,23 +1,21 @@
-```md
 <h1 align="center">Hi 👋, I'm Malsha Dissanayake</h1>
 
 <h3 align="center">
-🚀 Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
+Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;Software+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Programmer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Software+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Programmer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Data Science Undergraduate
-- 🌱 Currently learning **Machine Learning, Data Engineering, SQL Server, Power BI, and Cloud Technologies**
+- 🌱 Currently learning **Machine Learning, Power BI, SQL Server, Data Engineering, and Python for Data Science**
 - 👯 Looking to collaborate on **Data Science, Machine Learning, Data Analytics, and Software Development Projects**
-- 🤝 Seeking guidance in **Advanced Machine Learning and Data Engineering**
-- 💬 Ask me about **Python, SQL, Power BI, ETL Development, Java, Spring Boot, React, and Kotlin**
+- 🤝 Seeking guidance in **Advanced Machine Learning, Cloud Technologies, and Data Engineering**
+- 💬 Ask me about **Python, SQL, Power BI, Data Warehousing, ETL Development, Java, Spring Boot, React, and Kotlin**
 - 📫 Reach me at **malshadissanayake2022@gmail.com**
 - ⚡ Fun Fact: **I enjoy transforming data into meaningful insights and building solutions that solve real-world problems.**
 
@@ -42,7 +40,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,react,spring,nodejs,mongodb,mysql,html,css,c,cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,react,spring,nodejs,mongodb,mysql,html,css,c,cpp,git,github,vscode" />
 </p>
 
 ---
@@ -67,7 +65,7 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -79,35 +77,24 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 Current Focus
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MalshaDissanayake-2000&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🎓 Education
-
-### BSc (Hons) in Data Science
-**NSBM Green University**
-2024 – Present
+- 🤖 Machine Learning Projects
+- 📊 Data Analytics Dashboards
+- 📈 Power BI Reporting
+- 🗄 SQL Optimization
+- 🔄 ETL Development
+- ☁ Cloud & Data Engineering
+- 🌐 Full Stack Development
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 📊 Student Performance Analysis
-- Python
-- Pandas
-- Machine Learning
-
-### 📈 Power BI Dashboard
-- Power BI
-- SQL
-- Data Visualization
+### 📊 Data Analytics Projects
+- Power BI Dashboards
+- SQL Reporting Solutions
+- Business Intelligence Projects
 
 ### 🤖 Machine Learning Projects
 - Classification Models
@@ -117,18 +104,7 @@
 ### 💻 Software Development Projects
 - Spring Boot Applications
 - React Applications
-- Java Applications
-
----
-
-## 📚 Currently Learning
-
-- 🤖 Machine Learning
-- 📊 Data Analytics
-- 📈 Power BI
-- 🗄 SQL Server
-- 🔄 ETL Development
-- ☁ Cloud Technologies
+- Java Desktop Applications
 
 ---
 
@@ -143,4 +119,3 @@
 <h3 align="center">
 ⭐ Transforming Data Into Insights & Building Solutions That Matter ⭐
 </h3>
-```
