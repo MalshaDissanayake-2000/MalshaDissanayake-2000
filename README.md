@@ -1,22 +1,23 @@
-
+```md
 <h1 align="center">Hi 👋, I'm Malsha Dissanayake</h1>
 
 <h3 align="center">
-Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
+🚀 Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Software+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Programmer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;Software+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Programmer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Machine Learning, Power BI, SQL Server, Data Engineering, and Python for Data Science**
+- 🎓 Data Science Undergraduate
+- 🌱 Currently learning **Machine Learning, Data Engineering, SQL Server, Power BI, and Cloud Technologies**
 - 👯 Looking to collaborate on **Data Science, Machine Learning, Data Analytics, and Software Development Projects**
-- 🤝 Seeking guidance in **Advanced Machine Learning, Cloud Technologies, and Data Engineering**
-- 💬 Ask me about **Python, SQL, Power BI, Data Warehousing, ETL Development, Java, Spring Boot, React, and Kotlin**
+- 🤝 Seeking guidance in **Advanced Machine Learning and Data Engineering**
+- 💬 Ask me about **Python, SQL, Power BI, ETL Development, Java, Spring Boot, React, and Kotlin**
 - 📫 Reach me at **malshadissanayake2022@gmail.com**
 - ⚡ Fun Fact: **I enjoy transforming data into meaningful insights and building solutions that solve real-world problems.**
 
@@ -41,7 +42,7 @@ Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,react,spring,nodejs,mongodb,mysql,html,css,c,cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,react,spring,nodejs,mongodb,mysql,html,css,c,cpp,git,github,vscode" />
 </p>
 
 ---
@@ -66,7 +67,7 @@ Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
 
@@ -78,40 +79,35 @@ Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MalshaDissanayake-2000&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MalshaDissanayake-2000&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎓 Education
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MalshaDissanayake-2000&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🚀 Current Focus
-
-- 🤖 Machine Learning Projects
-- 📊 Data Analytics Dashboards
-- 📈 Power BI Reporting
-- 🗄 SQL Optimization
-- 🔄 ETL Development
-- ☁ Cloud & Data Engineering
-- 🌐 Full Stack Development
+### BSc (Hons) in Data Science
+**NSBM Green University**
+2024 – Present
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Data Analytics Projects
-- Power BI Dashboards
-- SQL Reporting Solutions
-- Business Intelligence Projects
+### 📊 Student Performance Analysis
+- Python
+- Pandas
+- Machine Learning
+
+### 📈 Power BI Dashboard
+- Power BI
+- SQL
+- Data Visualization
 
 ### 🤖 Machine Learning Projects
 - Classification Models
@@ -121,7 +117,18 @@ Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
 ### 💻 Software Development Projects
 - Spring Boot Applications
 - React Applications
-- Java Desktop Applications
+- Java Applications
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- 📈 Power BI
+- 🗄 SQL Server
+- 🔄 ETL Development
+- ☁ Cloud Technologies
 
 ---
 
