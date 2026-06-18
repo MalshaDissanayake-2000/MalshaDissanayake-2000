@@ -1,24 +1,139 @@
-<h1 align="center">Hi 👋, I'm Malsha Dissanyaka</h1>
-<h3 align="center">A Data Science Undergraduate and Software Developer from Sri Lanka</h3>
+```md
+<h1 align="center">Hi 👋, I'm Malsha Dissanayake</h1>
 
-- 🌱 I’m currently learning **Machine Learning, Power BI, SQL Server, and Python for Data Science**
+<h3 align="center">
+Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
+</h3>
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning, and Data Analytics Projects**
-
-- 🤝 I’m looking for help with **Machine Learning, Data Engineering, and Advanced Data Analytics**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MalshaDissanayake-2000](https://github.com/MalshaDissanayake-2000)
-
-- 💬 Ask me about **Python, SQL, Power BI, Data Warehousing, ETL Development, Java, Spring Boot, React, and Kotlin**
-
-- 📫 How to reach me **malshadissanayake2022@gmail.com**
-
-- ⚡ Fun fact **I enjoy transforming data into meaningful insights and building solutions that solve real-world problems.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/malsha dissanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malsha dissanayake" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Software+Developer;Machine+Learning+Enthusiast;Power+BI+Developer;Python+Programmer;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Machine Learning, Power BI, SQL Server, Data Engineering, and Python for Data Science**
+- 👯 Looking to collaborate on **Data Science, Machine Learning, Data Analytics, and Software Development Projects**
+- 🤝 Seeking guidance in **Advanced Machine Learning, Cloud Technologies, and Data Engineering**
+- 💬 Ask me about **Python, SQL, Power BI, Data Warehousing, ETL Development, Java, Spring Boot, React, and Kotlin**
+- 📫 Reach me at **malshadissanayake2022@gmail.com**
+- ⚡ Fun Fact: **I enjoy transforming data into meaningful insights and building solutions that solve real-world problems.**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:malshadissanayake2022@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,react,spring,nodejs,mongodb,mysql,html,css,c,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Data Science & Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalshaDissanayake-2000&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshaDissanayake-2000&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MalshaDissanayake-2000&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MalshaDissanayake-2000&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Machine Learning Projects
+- 📊 Data Analytics Dashboards
+- 📈 Power BI Reporting
+- 🗄 SQL Optimization
+- 🔄 ETL Development
+- ☁ Cloud & Data Engineering
+- 🌐 Full Stack Development
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Data Analytics Projects
+- Power BI Dashboards
+- SQL Reporting Solutions
+- Business Intelligence Projects
+
+### 🤖 Machine Learning Projects
+- Classification Models
+- Regression Models
+- Predictive Analytics
+
+### 💻 Software Development Projects
+- Spring Boot Applications
+- React Applications
+- Java Desktop Applications
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MalshaDissanayake-2000&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Transforming Data Into Insights & Building Solutions That Matter ⭐
+</h3>
+```
